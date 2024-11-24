@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Hello there👋!
 
-Here is my person page under construction. Stay tuned for updates!
+Here is my personal page under construction. Stay tuned for updates!
